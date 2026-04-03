@@ -1,0 +1,22 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Crucial!)
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large data/logs
+*.log
